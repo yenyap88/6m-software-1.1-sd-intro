@@ -31,7 +31,7 @@ div:nth-child(6)
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Your answer herebox-sizing: border-box;  
+box-sizing: border-box;  
 It will include padding and border in the width/height calculation as below:
   .child {
         border: mediumblue 8px solid;
