@@ -38,7 +38,8 @@ It will include padding and border in the width/height calculation as below:
         width: 100%;
         height: 100%;
         margin: 0;
-        box-sizing: border-box; 
+        box-sizing: border-box;
+        }
 
 ```
 
